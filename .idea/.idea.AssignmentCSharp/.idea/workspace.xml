@@ -7,7 +7,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fefd9129-acf3-4a38-afbd-36b0f7d930ac" name="Changes" comment="" />
+    <list default="true" id="fefd9129-acf3-4a38-afbd-36b0f7d930ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AssignmentCSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AssignmentCSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/AssignmentCSharp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/AssignmentCSharp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/AssignmentCSharp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/AssignmentCSharp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/Debug/net8.0/AssignmentCSharp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/Debug/net8.0/AssignmentCSharp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/Debug/net8.0/AssignmentCSharp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/Debug/net8.0/AssignmentCSharp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/Debug/net8.0/AssignmentCSharp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/Debug/net8.0/AssignmentCSharp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/Debug/net8.0/AssignmentCSharp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/Debug/net8.0/AssignmentCSharp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/Debug/net8.0/AssignmentCSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/Debug/net8.0/AssignmentCSharp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentCSharp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentCSharp/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +29,9 @@
   </component>
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/904d57666480617a93aa17ba13b435b885f0915bc3bd7fdce87ac92d51d57/MySqlCommand.cs" root0="SKIP_HIGHLIGHTING" />
@@ -32,6 +49,7 @@
   &quot;keyToString&quot;: {
     &quot;.NET Project.AssignmentCSharp.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -41,9 +59,9 @@
   },
   &quot;keyToStringList&quot;: {
     &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\admin\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\admin\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\admin\\AppData\\Local\\Symbols\\src&quot;
+      &quot;C:\\Users\\PC\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\PC\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\PC\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
 }</component>
@@ -86,6 +104,8 @@
       <workItem from="1721628358420" duration="13083000" />
       <workItem from="1721653530694" duration="2825000" />
       <workItem from="1721716345626" duration="12521000" />
+      <workItem from="1721741010662" duration="3762000" />
+      <workItem from="1721756650076" duration="1171000" />
     </task>
     <servers />
   </component>
